@@ -25,16 +25,37 @@ We'd like you to make a bookstore apis for helping bookseller manage his/her dat
  	 - Editing.
  	 - Deleting.
  	 - Rating.
- - Listing bestseller.
+ - Listing bestseller. (decide by amount of book that has been sold.)
 	 - All bestseller.
 	 - Bestseller by book's category.
+ - Glad to see any idea that improving your bookstore is a plus.
+  
+## Example Book Model
+ - Title
+ - Synopsis
+ - ISBN10
+ - ISBN13
+ - Language
+ - Publisher
+ - Edition
+ - Price
+ 	 - Ebook
+ 	 - Paperback
+ - Reviews
+ 	 - Score
+ 	 - Description
+ - SoldAmount
+ - CurrentAmount
 
 ## Technology expectations
-- Choosing one of these frameworks: **Angular**, **Vue** or **React**.
+- Code must be written in these technology below.
+  - Node.js.
+  - Typescript.
+  - Golang.
+- You can decide what database, you use.
+- Testing is a must.
 - Good code structure and clean code.
 - You can use any tools to develop it's up to you.
-- Testing is a must.
-- Typescript is a plus.
 
 ## Contact
 if you have any question feel free send and email to hireme@thelivingos.com
