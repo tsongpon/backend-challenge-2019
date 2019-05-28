@@ -52,6 +52,7 @@ We'd like you to make a bookstore apis for helping bookseller manage his/her dat
   - Node.js.
   - Typescript.
   - Golang.
+- Can use RESTFUL, GraphQL or gRPC.
 - You can decide what database, you use.
 - Testing is a must.
 - Good code structure and clean code.
