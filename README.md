@@ -1,8 +1,8 @@
 # LivingOS: Backend challenge
 
-Hi, all applicants who interest this job. We would like to take a test on your coding skill.
+Hi, all applicants if you are interested in this job. We would like to test your coding skills.
 
-We don't care any degree or how many experienced years, you have. :-), If you can implement our assignment.
+If you can implement our assignment, regardless of your qualifications or how many years of experience you have, we will contact you for the next steps of the interview process.
 
 We'd like you to make a bookstore apis for helping bookseller manage his/her data.
 
@@ -48,7 +48,7 @@ We'd like you to make a bookstore apis for helping bookseller manage his/her dat
  - CurrentAmount
 
 ## Technology expectations
-- Code must be written in these technology below.
+- Code must be written in the below mentioned technology stack.
   - Node.js.
   - Typescript.
   - Golang.
@@ -59,5 +59,5 @@ We'd like you to make a bookstore apis for helping bookseller manage his/her dat
 - You can use any tools to develop it's up to you.
 
 ## Contact
-if you have any question feel free send and email to hireme@thelivingos.com
+if you have any further questions, please feel free to contact us on hireme@thelivingos.com
 
