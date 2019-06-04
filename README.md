@@ -58,6 +58,9 @@ We'd like you to develop RESTFul APIs for a Bookstore, for helping bookseller ma
 - Good code structure and clean code.
 - You can use any tools to develop it's up to you.
 
+## How to submit
+Fork this repository and send your repo to hireme@thelivingos.com when you're done an assignment.
+
 ## Contact
 if you have any further questions, please feel free to contact us on hireme@thelivingos.com
 
