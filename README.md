@@ -4,7 +4,7 @@ Hi, all applicants if you are interested in this job. We would like to test your
 
 If you can implement our assignment, regardless of your qualifications or how many years of experience you have, we will contact you for the next steps of the interview process.
 
-We'd like you to make a bookstore apis for helping bookseller manage his/her data.
+We'd like you to develop RESTFul APIs for a Bookstore, for helping bookseller manage his/her data.
 
 ![Screenshot](/img/bookstore.jpg)
 
