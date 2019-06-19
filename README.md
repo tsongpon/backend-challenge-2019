@@ -2,15 +2,15 @@
 
 ![Screenshot](/img/bookstore.jpg)
 
-run test
+**run test**
 
     go test ./... -v
 
-run service (docker-compose)
+**run service (docker-compose)**
 
     docker-compose up
 
-TODOS
+**TODOS**
 
  - more test coverage on handler package
  - add swagger
