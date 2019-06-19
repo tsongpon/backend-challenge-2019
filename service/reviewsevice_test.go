@@ -35,7 +35,6 @@ func (m *MockReviewRepository) DeleteReview(id string) error {
 	args := m.Called(id)
 	return args.Error(0)
 }
-
 // end mocking book review repository //
 
 func TestGetReview(t *testing.T) {
